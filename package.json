@@ -1,0 +1,63 @@
+{
+  "name": "reaflow",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/server": "^11.11.0",
+    "@mantine/core": "^6.0.17",
+    "@mantine/hooks": "^6.0.17",
+    "@monaco-editor/react": "^4.5.2",
+    "@tanstack/react-query": "^4.35.3",
+    "allotment": "^1.19.2",
+    "axios": "^1.5.0",
+    "dayjs": "^1.11.10",
+    "html-to-image": "^1.11.11",
+    "jq-in-the-browser": "^0.7.2",
+    "json-2-csv": "^4.1.0",
+    "jsonc-parser": "^3.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "jxon": "^2.0.0-beta.5",
+    "lodash.debounce": "^4.0.8",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-ga4": "^2.1.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.11.0",
+    "react-linkify-it": "^1.0.7",
+    "react-scripts": "^5.0.1",
+    "react-simple-typewriter": "^5.0.1",
+    "react-zoomable-ui": "^0.11.0",
+    "reaflow": "5.2.6",
+    "styled-components": "^6.0.8",
+    "toml": "^3.0.0",
+    "use-long-press": "^3.1.5",
+    "zustand": "^4.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

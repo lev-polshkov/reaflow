@@ -1,0 +1,59 @@
+{
+  "name": "reaflow",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@mantine/core": "^6.0.17",
+    "@mantine/hooks": "^6.0.17",
+    "@monaco-editor/react": "^4.5.2",
+    "@tanstack/react-query": "^4.35.3",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "allotment": "^1.19.2",
+    "json-2-csv": "^4.1.0",
+    "jsonc-parser": "^3.2.0",
+    "jxon": "^2.0.0-beta.5",
+    "lodash.debounce": "^4.0.8",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-ga4": "^2.1.0",
+    "react-icons": "^4.12.0",
+    "react-linkify-it": "^1.0.7",
+    "react-scripts": "5.0.1",
+    "react-zoomable-ui": "^0.11.0",
+    "reaflow": "^5.2.8",
+    "styled-components": "^5.3.5",
+    "toml": "^3.0.0",
+    "use-long-press": "^3.1.5",
+    "web-vitals": "^2.1.0",
+    "zustand": "^4.4.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
